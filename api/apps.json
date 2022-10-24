@@ -1,0 +1,57 @@
+{
+  "last_updated": "2022-10-24",
+  "data": [
+    {
+      "id": "com.cast.app",
+      "name": "Cast: Premium content for creators",
+      "publisher": "Cast Platform Ltd",
+      "download_url": "https://raw.githubusercontent.com/Weav3r/gdapps/main/apps/kjv_bible.apk",
+      "icon": "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/cast_text_logo.png",
+      "icon_background": "#FFFFFF",
+      "category": "Entertainment",
+      "size": "80 MB",
+      "download_count": 26834550,
+      "date_published": "2021-05-03",
+      "date_updated": "2020-06-25"
+    },
+    {
+      "id": "gg.gudu.run",
+      "name": "Gudu Run: Endless runner game with real life rewards",
+      "publisher": "Gudu Studios Ltd",
+      "download_url": "https://raw.githubusercontent.com/Weav3r/gdapps/main/apps/device_info.apk",
+      "icon": "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/gudu_run_logo.png",
+      "icon_background": "#000000",
+      "category": "Gaming",
+      "size": "16 MB",
+      "download_count": 311832,
+      "date_published": "2019-08-20",
+      "date_updated": "2020-02-25"
+    },
+    {
+      "id": "gg.gudu.smash",
+      "name": "Gudu Smash: Smash viruses and earn real life rewards",
+      "publisher": "Gudu Studios Ltd",
+      "download_url": "https://raw.githubusercontent.com/Weav3r/gdapps/main/apps/gybo_v1.apk",
+      "icon": "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/gudu_run_logo.png",
+      "icon_background": "#000000",
+      "category": "Gaming",
+      "size": "28 MB",
+      "download_count": 628136,
+      "date_published": "2020-05-11",
+      "date_updated": "2021-10-15"
+    },
+    {
+      "id": "gg.gudu.wallet",
+      "name": "Gudu Wallet: Save coins and money with Gudu wallet",
+      "publisher": "Gudu Studios Ltd",
+      "download_url": "https://raw.githubusercontent.com/Weav3r/gdapps/main/apps/hmucv9.apk",
+      "icon": "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/gudu_wallet_logo.png",
+      "icon_background": "#FFFFFF",
+      "category": "Finance",
+      "size": "4 MB",
+      "download_count": 59861,
+      "date_published": "2020-07-11",
+      "date_updated": "2020-08-07"
+    }
+  ]
+}
