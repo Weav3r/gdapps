@@ -1,0 +1,12 @@
+{
+  "age_rating": "18+",
+  "short_desc": "Nulla mollit consequat aute mollit sit deserunt ut laboris nisi sint. Irure eiusmod duis velit culpa et et proident veniam do esse labore qui. Reprehenderit esse ad id reprehenderit cillum sunt.\r\n",
+  "app_rating": 4.4,
+  "version": "3.0.0",
+  "preview_images": [
+    "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/prev1.png",
+    "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/prev2.png",
+    "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/prev3.png",
+    "https://raw.githubusercontent.com/Weav3r/gdapps/main/images/prev4.png"
+  ]
+}
